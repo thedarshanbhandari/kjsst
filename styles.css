@@ -1,0 +1,4 @@
+.menubarsec.active{
+    transform: translate(0%);
+    transition: .7s;
+  }
